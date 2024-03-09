@@ -1,0 +1,76 @@
+<html>
+
+<head>
+<title>* # EARTH # *</title>
+</head>
+
+
+<body bgcolor="teal">
+
+<center>
+<font color="white" size="20">
+<b><i><u><p>* # EARTH # *</p></u></i></b>
+</font>
+
+
+<marquee scrollamount="15" bgcolor="gray">
+<font size="5">
+<p>Hello creatures. i am Bumba, your creator. click here to know my story. </p>
+</font>
+</marquee>
+
+<br><br>
+
+
+<img src="earth.jpg" width="1000px">
+
+<font size="5" color="white">
+<p>Earth is the third planet from the Sun and the only astronomical object known to harbor life. While large volumes of water can be found throughout the Solar System, only Earth sustains liquid surface water. About 71% of Earth's surface is made up of the ocean, dwarfing Earth's polar ice, lakes, and rivers. The remaining 29% of Earth's surface is land, consisting of continents and islands.</p>
+</font>
+
+<hr><hr>
+
+<h1>Continents</h1>
+<img src="continents.jpg" width="950px" height="500px">
+
+<font size="5" color="white">
+<p>A continent is any of several large landmasses. Generally identified by convention rather than any strict criteria, up to seven geographical regions are commonly regarded as continents. Ordered from largest in area to smallest, these seven regions are: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. you can check each continent by clicking on the below links.</p>
+</font>
+
+<hr>
+
+
+<h1>Oceans</h1>
+<img src="oceans.jpg" width="950px" height="500px">
+
+<font size="5" color="white">
+<p>The ocean is the body of salt water that covers approximately 70.8% of the surface of Earth and contains 97% of Earth's water. An ocean can also refer to any of the large bodies of water into which the world ocean is conventionally divided. Separate names are used to identify five different areas of the ocean: Pacific (the largest), Atlantic, Indian, Southern (Antarctic), and Arctic (the smallest).</p>
+</font>
+
+<hr>
+
+<h1>Food chain</h1>
+
+<font size="5" color="white">
+<p>Earth has vast number of living species. Every living thing, from one-celled algae to giant blue whale needs food to survive.
+The food chain describes who eats whom in the wild. Each food chain is a possible pathway that energy and nutrients can follow through the ecosystem.
+</p>
+</font>
+
+<img src="chain.webp" width="950px" height="500px">
+
+<font size="5" color="white">
+<p>A food chain explains which organism eats another organism in the environment. The food chain is a linear sequence of organisms where nutrients and energy is transferred from one organism to the other. This occurs when one organism consumes another organism. It begins with the producer organism, follows the chain and ends with the decomposer organism. After understanding the food chain, we realise how one organism is dependent upon another organism for survival.</p>
+</font>
+
+
+
+</center>
+
+<br><br><br><br>
+
+
+</body>
+
+
+</html>
